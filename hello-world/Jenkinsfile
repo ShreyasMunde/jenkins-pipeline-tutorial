@@ -3,22 +3,22 @@ pipeline {
     stages {
         stage('Static Analysis') {
             steps {
-                echo 'Run the static analysis to the code' 
+                echo 'JAI MAHARASHTRA' 
             }
         }
         stage('Compile') {
             steps {
-                echo 'Compile the source code' 
+                echo 'RAM RAM BHAI SARYANNE' 
             }
         }
         stage('Security Check') {
             steps {
-                echo 'Run the security check against the application' 
+                echo 'TOJ HUMNE MARI 100 SAPPATTE' 
             }
         }
         stage('Run Unit Tests') {
             steps {
-                echo 'Run unit tests from the source code' 
+                echo 'AAJ HUME BAPPU KO LE GAYE SEHER' 
             }
         }
         stage('Run Integration Tests') {
